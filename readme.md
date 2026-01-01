@@ -33,27 +33,21 @@
 
 ### 설치 방법
 
-1. 저장소 클론:
-```bash
-git clone https://github.com/yourusername/my-sns-app.git
-cd my-sns-app
-```
-
-2. 의존성 설치:
+1. 의존성 설치:
 ```bash
 npm install
 # 또는
 yarn install
 ```
 
-3. 개발 서버 실행:
+2. 개발 서버 실행:
 ```bash
 npm run dev
 # 또는
 yarn dev
 ```
 
-4. 브라우저에서 `http://localhost:3000`으로 접속하여 애플리케이션 확인
+3. 브라우저에서 `http://localhost:3000`으로 접속하여 애플리케이션 확인
 
 ## 프로젝트 구조
 
